@@ -1,0 +1,4 @@
+*.pdf
+*.class
+#se especifica el archivo que no queremos subir #
+static/zip/nombre.zip 
